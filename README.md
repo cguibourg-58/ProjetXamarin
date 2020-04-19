@@ -1,2 +1,0 @@
-# projetxamarin
-test 1
