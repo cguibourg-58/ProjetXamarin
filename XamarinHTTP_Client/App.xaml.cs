@@ -6,11 +6,15 @@ namespace XamarinHTTP_Client
 {
     public partial class App : Application
     {
+        public NavigationPage NavigationPage { get; private set; }
         public App()
         {
-            InitializeComponent();
-
-            MainPage = new MainPage();
+            var menuPage = new Profile();
+            NavigationPage = new NavigationPage(new HomePage());
+            var rootPage = new RootPage();
+            //rootPage.Master = menuPage;
+            rootPage.Detail = NavigationPage;
+            MainPage = rootPage;
         }
 
         protected override void OnStart()
