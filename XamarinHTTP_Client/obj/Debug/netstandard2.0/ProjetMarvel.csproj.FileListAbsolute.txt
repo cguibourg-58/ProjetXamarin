@@ -2,7 +2,6 @@ C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Cl
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client\bin\Debug\netstandard2.0\ProjetMarvel.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client\bin\Debug\netstandard2.0\ref\ProjetMarvel.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client\bin\Debug\netstandard2.0\ProjetMarvel.pdb
-C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client\obj\Debug\netstandard2.0\ProjetMarvel.csprojAssemblyReference.cache
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
@@ -16,3 +15,4 @@ C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Cl
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client\obj\Debug\netstandard2.0\ProjetMarvel.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client\obj\Debug\netstandard2.0\ref\ProjetMarvel.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client\obj\Debug\netstandard2.0\ProjetMarvel.pdb
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client\obj\Debug\netstandard2.0\ProjetMarvel.csprojAssemblyReference.cache

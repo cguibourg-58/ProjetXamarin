@@ -526,3 +526,4 @@ C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Cl
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\res\drawable\spideycover.jpg

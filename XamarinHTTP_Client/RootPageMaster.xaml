@@ -29,6 +29,6 @@
             <Label x:Name="birth" Text="Né le 05/06/1995" FontSize="Medium" HorizontalTextAlignment="Start"/>
             <Entry x:Name="changeBirth" Grid.Row="0" Grid.Column="0" HorizontalTextAlignment="Center" FontSize="20" Completed="Birth_Changed"/>
         </StackLayout>
-        <Button BackgroundColor="#B30000" Grid.Row="3" Grid.ColumnSpan="3" Text="Change your Profile Photo" TextColor="White" x:Name="shareMe" Margin="10, 0, 10, 0" Clicked="ChangePP"/>
+        <Button BackgroundColor="#B30000" Grid.Row="3" Grid.ColumnSpan="3" Text="Changer photo de profile" TextColor="White" x:Name="shareMe" Margin="10, 0, 10, 0" Clicked="ChangePP"/>
     </Grid>
 </ContentPage>
