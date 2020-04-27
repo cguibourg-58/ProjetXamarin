@@ -9,11 +9,6 @@
   <MasterDetailPage.Master>
     <pages:RootPageMaster x:Name="MasterPage" />
   </MasterDetailPage.Master>
-  <MasterDetailPage.Detail>
-    <NavigationPage>
-      <x:Arguments>
-        <pages:RootPageDetail />
-      </x:Arguments>
-    </NavigationPage>
-  </MasterDetailPage.Detail>
+    <MasterDetailPage.Detail>
+    </MasterDetailPage.Detail>
 </MasterDetailPage>

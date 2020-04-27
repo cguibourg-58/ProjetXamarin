@@ -4,6 +4,7 @@ C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Cl
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\Mono.Android.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\mscorlib.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\ProjetMarvel.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\System.Core.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\System.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\System.Numerics.dll
@@ -53,7 +54,6 @@ C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Cl
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
-C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\XamarinHTTP_Client.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\System.Net.Http.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll

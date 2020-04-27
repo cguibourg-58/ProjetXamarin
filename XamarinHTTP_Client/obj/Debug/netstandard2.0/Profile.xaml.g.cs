@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinHTTP_Client.Profile.xaml", "Profile.xaml", typeof(global::XamarinHTTP_Client.Profile))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ProjetMarvel.Profile.xaml", "Profile.xaml", typeof(global::XamarinHTTP_Client.Profile))]
 
 namespace XamarinHTTP_Client {
     

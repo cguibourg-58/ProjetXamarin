@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinHTTP_Client.Android", "XamarinHTTP_Client.Android\XamarinHTTP_Client.Android.csproj", "{B5A1280A-283F-4619-88D5-93FE1415546B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetMarvel.Android", "XamarinHTTP_Client.Android\ProjetMarvel.Android.csproj", "{B5A1280A-283F-4619-88D5-93FE1415546B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinHTTP_Client.iOS", "XamarinHTTP_Client.iOS\XamarinHTTP_Client.iOS.csproj", "{A9A8D734-97DF-4B5C-9FA1-ECA1F3DD014B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetMarvel.iOS", "XamarinHTTP_Client.iOS\ProjetMarvel.iOS.csproj", "{A9A8D734-97DF-4B5C-9FA1-ECA1F3DD014B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinHTTP_Client", "XamarinHTTP_Client\XamarinHTTP_Client.csproj", "{F4EA2CDF-ABF9-41AE-9241-982058363BB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetMarvel", "XamarinHTTP_Client\ProjetMarvel.csproj", "{F4EA2CDF-ABF9-41AE-9241-982058363BB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

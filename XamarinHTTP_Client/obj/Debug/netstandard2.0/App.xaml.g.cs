@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinHTTP_Client.App.xaml", "App.xaml", typeof(global::XamarinHTTP_Client.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ProjetMarvel.App.xaml", "App.xaml", typeof(global::XamarinHTTP_Client.App))]
 
 namespace XamarinHTTP_Client {
     

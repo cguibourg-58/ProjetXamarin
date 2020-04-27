@@ -1532,3 +1532,13 @@ C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Cl
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\res\drawable\spiderman.jpg
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\res\drawable\thanos.jpg
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\res\drawable\thor.jpg
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\res\drawable\blackpanther.jpg
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\res\drawable\captainmarvel.jpg
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\res\drawable\hulk.jpg
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\res\drawable\ironman.jpg
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\res\drawable\loki.jpg
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\res\drawable\nickfury.jpg
+C:\Users\clem\Documents\Cours\xamarin\projetxamarin\projetxamarin\XamarinHTTP_Client.Android\obj\Debug\90\res\drawable\bandeau.jpg

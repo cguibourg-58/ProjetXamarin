@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\clem\\Documents\\Cours\\xamarin\\projetxamarin\\projetxamarin\\XamarinHTTP_Client\\XamarinHTTP_Client.csproj": {
-                "projectPath": "C:\\Users\\clem\\Documents\\Cours\\xamarin\\projetxamarin\\projetxamarin\\XamarinHTTP_Client\\XamarinHTTP_Client.csproj"
+              "C:\\Users\\clem\\Documents\\Cours\\xamarin\\projetxamarin\\projetxamarin\\XamarinHTTP_Client\\ProjetMarvel.csproj": {
+                "projectPath": "C:\\Users\\clem\\Documents\\Cours\\xamarin\\projetxamarin\\projetxamarin\\XamarinHTTP_Client\\ProjetMarvel.csproj"
               }
             }
           }
@@ -62,12 +62,12 @@
         }
       }
     },
-    "C:\\Users\\clem\\Documents\\Cours\\xamarin\\projetxamarin\\projetxamarin\\XamarinHTTP_Client\\XamarinHTTP_Client.csproj": {
+    "C:\\Users\\clem\\Documents\\Cours\\xamarin\\projetxamarin\\projetxamarin\\XamarinHTTP_Client\\ProjetMarvel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clem\\Documents\\Cours\\xamarin\\projetxamarin\\projetxamarin\\XamarinHTTP_Client\\XamarinHTTP_Client.csproj",
-        "projectName": "XamarinHTTP_Client",
-        "projectPath": "C:\\Users\\clem\\Documents\\Cours\\xamarin\\projetxamarin\\projetxamarin\\XamarinHTTP_Client\\XamarinHTTP_Client.csproj",
+        "projectUniqueName": "C:\\Users\\clem\\Documents\\Cours\\xamarin\\projetxamarin\\projetxamarin\\XamarinHTTP_Client\\ProjetMarvel.csproj",
+        "projectName": "ProjetMarvel",
+        "projectPath": "C:\\Users\\clem\\Documents\\Cours\\xamarin\\projetxamarin\\projetxamarin\\XamarinHTTP_Client\\ProjetMarvel.csproj",
         "packagesPath": "C:\\Users\\clem\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\clem\\Documents\\Cours\\xamarin\\projetxamarin\\projetxamarin\\XamarinHTTP_Client\\obj\\",
         "projectStyle": "PackageReference",

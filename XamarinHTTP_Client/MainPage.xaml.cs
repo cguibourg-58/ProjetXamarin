@@ -17,14 +17,6 @@ namespace XamarinHTTP_Client
         public MainPage()
         {
             InitializeComponent();
-            BindingContext = new MainViewModel();
-        }
-        void Entry_Completed(System.Object sender, System.EventArgs e)
-        {
-            if (BindingContext is MainViewModel vm)
-            {
-                vm.GetCommand.Execute(sender);
-            }
         }
     }
 }

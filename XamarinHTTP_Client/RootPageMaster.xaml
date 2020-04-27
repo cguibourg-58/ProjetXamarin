@@ -6,53 +6,29 @@
              mc:Ignorable="d"
              x:Class="XamarinHTTP_Client.RootPageMaster"
              Title="Master">
-  <StackLayout>
-    <ListView x:Name="MenuItemsListView"
-              SeparatorVisibility="None"
-              HasUnevenRows="true"
-              ItemsSource="{Binding MenuItems}">
-      <d:ListView.ItemsSource>
-          <x:Array Type="{x:Type x:String}">
-              <x:String>Page 1</x:String>
-              <x:String>Page 2</x:String>
-              <x:String>Page 3</x:String>
-              <x:String>Page 4</x:String>
-              <x:String>Page 5</x:String>
-          </x:Array>
-      </d:ListView.ItemsSource>
-      <ListView.Header>
-        <Grid BackgroundColor="#03A9F4">
-          <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="10"/>
+    <Grid BackgroundColor="#FFFAD0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="10"/>
-          </Grid.ColumnDefinitions>
-          <Grid.RowDefinitions>
-            <RowDefinition Height="30"/>
-            <RowDefinition Height="80"/>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="10"/>
-          </Grid.RowDefinitions>
-          <Label
-              Grid.Column="1"
-              Grid.Row="2"
-              Text="AppName"
-              Style="{DynamicResource SubtitleStyle}"/>
-        </Grid>
-      </ListView.Header>
-      <ListView.ItemTemplate>
-        <DataTemplate>
-          <ViewCell>
-            <StackLayout Padding="15,10" HorizontalOptions="FillAndExpand">
-              <Label VerticalOptions="FillAndExpand" 
-                    VerticalTextAlignment="Center" 
-                    Text="{Binding Title}" 
-                    d:Text="{Binding .}"
-                    FontSize="24"/>
-            </StackLayout>
-          </ViewCell>
-        </DataTemplate>
-      </ListView.ItemTemplate>
-    </ListView>
-  </StackLayout>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="bandeau.jpg" HorizontalOptions="FillAndExpand" Aspect="AspectFill" Grid.ColumnSpan="3"/>
+        <Frame Margin="30, 0, 30, 0" BackgroundColor="Black" Grid.RowSpan="2" Grid.ColumnSpan="3" HasShadow="True" CornerRadius="400" WidthRequest="130" HeightRequest="130" HorizontalOptions="Center" VerticalOptions="Center" IsClippedToBounds="True" Padding="0">
+            <Image x:Name="photoProfile" HorizontalOptions="FillAndExpand" Aspect="AspectFill" />
+        </Frame>
+        <StackLayout Margin="30, -65, 30, 0" VerticalOptions="Start" Grid.Row="2" Grid.ColumnSpan="3">
+            <Entry x:Name="name" Text="Stan" Grid.Row="0" Grid.Column="0" HorizontalTextAlignment="Center" FontSize="20" Completed="Name_Changed"/>
+            <Entry x:Name="lastname" Text="Lee" Grid.Row="2" Grid.Column="0" HorizontalTextAlignment="Center" FontSize="20" Completed="Lastname_Changed"/>
+            <Label x:Name="birth" Text="Né le 05/06/1995" FontSize="Medium" HorizontalTextAlignment="Start"/>
+            <Entry x:Name="changeBirth" Grid.Row="0" Grid.Column="0" HorizontalTextAlignment="Center" FontSize="20" Completed="Birth_Changed"/>
+        </StackLayout>
+        <Button BackgroundColor="#B30000" Grid.Row="3" Grid.ColumnSpan="3" Text="Change your Profile Photo" TextColor="White" x:Name="shareMe" Margin="10, 0, 10, 0" Clicked="ChangePP"/>
+    </Grid>
 </ContentPage>
